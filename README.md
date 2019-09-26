@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vimrc
 My vim config
 
@@ -12,5 +11,3 @@ bash install.sh
 ```
 1. Enter vim, and type `:PlugInstall`, enter
 =======
-# awesome_vim
->>>>>>> 6b816490283e43c05c464933c06921b8d730417b
